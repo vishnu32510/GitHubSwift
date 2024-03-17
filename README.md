@@ -1,6 +1,6 @@
 <br/>
 <p align="center">
-  <a href="https://github.com/vishnu32510/Photos_using_unsplash_api">
+  <a href="https://github.com/vishnu32510/GitHubSwift">
   </a>
 
   <h3 align="center">My GitHub Profile Details</h3>

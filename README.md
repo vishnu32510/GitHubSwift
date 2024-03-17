@@ -1,6 +1,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com/vishnu32510/GitHubSwift">
+     <img src="GitHubSwift/Assets.xcassets/AppIcon.appiconset/AppIcon.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">My GitHub Profile Details</h3>
